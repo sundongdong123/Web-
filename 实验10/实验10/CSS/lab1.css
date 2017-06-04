@@ -1,0 +1,113 @@
+#blank{
+	width:75%;
+	height:30px;
+	margin:0px auto;
+	font-size:14px;
+	line-height:30px;
+	color:#8B2500;
+}
+#blank a:link{color:#8B2500;}
+#blank a:visited{color:#8B2500;}
+#blank a:hover{color:green;}
+#blank a:active{color:red;}
+#firstlist a:link{color:#4F4F4F;}
+#firstlist a:visited{color:#4F4F4F;}
+#firstlist a:hover{color:green;}
+#firstlist a:active{color:red;}
+#student a:link{color:#8B2500}
+#student a:visited{color:#8B2500}
+#student a:hover{color:green}
+#student a:active{color:red}
+#content{width:75%;margin:0px auto;}
+#left{width:22%;height:600px;float:left;}
+#right{width:77%;height:600px;float:left;}
+#first{
+	width:200px;
+	height:270px;
+	border:1px grey solid;
+	color:#4F4F4F;
+	background-color:#EEE9E9;
+	font-size:15px;
+}
+#firstlist{
+	width:120px;
+	height:200px;
+	margin-left:35px;
+}
+#first ul li{width:116px;height:30px;}
+#student{
+	background-image:url(../images/menubg.gif);
+	background-repeat:no-repeat;
+	color:#8B0000;
+	width:116px;
+	height:29px;
+}
+#second{
+	margin-top:30px;
+	width:200px;
+	height:160px;
+	border:1px grey solid;
+	color:#8B2500;
+	background-color:#EEE9E9;
+	font-size:15px;
+}
+#secondpic{width:200px;height:30px;}
+#secondlist{
+	width:120px;
+	height:200px;
+	margin-left:50px;
+}
+#third{
+	margin-top:30px;
+	width:200px;
+	height:64px;
+	border:1px grey solid;
+}
+#rtop{
+	width:760px;
+	height:45px;
+	border:1px grey solid;
+	background-color:#EEE9E9;
+	background-image:url(../images/listtitle.png);
+	background-repeat:no-repeat;
+	margin-left:20px;
+	color:#8B0000;
+	font-size:18px;
+}
+#word{
+	width:100px;height:30px;
+	margin-left:50px;
+	margin-top:10px;
+}
+#list1 li{
+	line-height:28px;
+	list-style-type:square;
+	list-style-position:inside;
+	color:#8B2500;
+}
+#list2 li{line-height:28px;color:#8B2500;}
+#list1{
+	width:620px;
+	height:520px;
+	float:left;
+	margin-left:20px;
+}
+#list2{
+	float:left;
+	width:130px;
+	height:520px;
+}
+#rbottom{
+	float:left;
+	width:500px;
+	height:30px;
+	margin-left:250px;
+	color:#8B2500;
+}
+#rbottom li{
+	display:inline;
+	width:50px;
+	height:30px;
+	border:1px #8B2500 solid;
+}
+

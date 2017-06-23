@@ -1,0 +1,134 @@
+.m
+{
+	float: left;
+	width: 1330px;
+	height: 200px;
+	background: url(images/timg2.jpg);
+}
+.l
+{
+	position: absolute;
+	right: 990px;
+	top: 90px;
+}
+.A
+{
+	color: white;
+    float: left;
+	padding-left: 380px;
+	padding-top: 80px;
+}
+.B
+{
+	float: left;
+	color: white;
+	padding-left: 150px;
+	padding-top: 80px;
+}
+.C
+{ 
+	float: left;
+	color: white;
+	padding-left: 150px;
+	padding-top: 80px;
+}
+.D
+{
+	color: white;
+	float: left;
+	padding-left: 150px;
+	padding-top: 80px;
+}
+#gu
+{
+	width: 1330px;
+	height: 1500px;
+	background: url(images/gu.jpeg);
+}
+.mm
+     {
+     	padding-top: 80px;
+     }
+.zz
+{
+	position:absolute;
+	left: 180px;
+	top: 300px;
+}
+#ss
+{
+	position: absolute;
+	left: 480px;
+    color:black; 
+    top: 240px;
+    font-size: 30px;
+}
+#qq2
+{
+	position: absolute;
+	left: 50px;
+	top: 740px;
+	float: left;
+}
+#qq3
+{
+    position: absolute;
+    left: 460px;
+    top: 740px;
+	float: left;
+}
+#qq4
+{
+	position: absolute;
+	right: 50px;
+	top: 740px;
+	float: left;
+}
+#m5
+{
+	position: absolute;
+	left: 40px;
+	top: 1000px;
+	font-size: 25px;
+}
+#qq5
+{
+	position: absolute;
+	left: 50px;
+	top: 1040px;
+	float: left;
+}
+#qq6
+{
+    position: absolute;
+    left: 460px;
+    top: 1040px;
+	float: left;
+}
+#qq7
+{
+	position: absolute;
+	right: 50px;
+	top: 1040px;
+	float: left;
+}
+#qa
+{
+	position: absolute;
+	left: 300px;
+	top: 1280px;
+	font-size: 30px;
+}
+.qq
+ {
+	font-size: 20px;
+	padding-right:200px;
+	position: absolute;
+	top: 1400px;
+ }
+.kk
+{
+	position: absolute;
+	top: 1400px;
+}
+

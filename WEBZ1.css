@@ -1,0 +1,60 @@
+
+div
+{
+	float: left;
+}
+.a
+{
+	padding-top: 10px;
+
+	padding-left: 10px;
+}
+.A
+{
+	color: white;
+	padding-bottom: 50px;
+	padding-left: 370px;
+	padding-top: 50px;
+}
+.B
+{
+	color: white;
+	padding-bottom: 50px;
+	padding-left: 80px;
+	padding-top: 50px;
+}
+.C
+{
+	color: white;
+	padding-bottom: 50px;
+	padding-left: 80px;
+	padding-top: 50px;
+}
+.D
+{
+	color: white;
+	padding-bottom: 50px;
+	padding-left: 80px;
+	padding-top: 50px;
+}
+.mm
+{
+	padding-top: 150px;
+	padding-left: 300px;
+	padding-right: 200px;
+	padding-bottom: 200px;
+}
+.ll
+{
+	font-size: 30px;
+	padding-left: 370px;
+	padding-right: 600px;
+	width: 600px;
+	height: 300px;
+	color: white;
+}
+.qq
+{
+	font-size: 20px;
+	padding-right:600px;
+}

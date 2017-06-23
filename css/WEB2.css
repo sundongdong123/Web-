@@ -1,0 +1,21 @@
+#wrap
+{
+  width: 1000px;
+  height: 835px;
+  border: 2px #000000 solid;
+  background-color: #FF99FF;
+  margin:auto;
+}
+#wrap header
+{
+  width: 960px;
+  height: 245px;
+  border: 3px #FF0000 solid;
+  background-color: #0099FF;
+  padding: auto;
+  margin-left: 15px;  
+}
+#wrap header headerlogo
+{
+	
+}
